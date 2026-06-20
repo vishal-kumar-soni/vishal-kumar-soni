@@ -2,7 +2,7 @@
 <h3 align="center">I am a student of Full Stack Development and Software Engineering from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vishal-vumar-soni&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-vumar-soni" />
+  <img src="https://komarev.com/ghpvc/?username=vishal-kumar-soni&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-kumar-soni" />
 </p>
 
 <div align="center">
@@ -72,18 +72,18 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal-vumar-soni&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal-kumar-soni&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-vumar-soni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="vishal's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-vumar-soni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-kumar-soni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="vishal's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumar-soni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
 <div align="center" pl-3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-vumar-soni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumar-soni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
  
 
