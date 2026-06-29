@@ -11,7 +11,7 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A54F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Enthusiast;React+Lover;Backend+Explorer;Tech+enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A54F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Developer;React+Lover;GenAI+Explorer;Tech+enthusiast;Always+Learning+New+Techologies" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://twitter.com/vishal_kr_coder"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
